@@ -12,7 +12,7 @@ os dados das props e ordenadas conforme inteface
 
 Header, flexbox e nome de cada membro com a sua função nos desenvolvimentos do semestre
 
-Commits realizados e versionamento completo desde o início!
+Commits realizados e versionamento completo desde o início via extensão github no vscode!
 
 ## 🚀 Tecnologias
 
